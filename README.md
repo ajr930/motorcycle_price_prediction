@@ -19,6 +19,10 @@ The item that we are using is motorcycles and to predict how much a used motorcy
 For visualization I used the median price of the motorcycle grouped by the make of the motorcycle.
 ![image](https://user-images.githubusercontent.com/83923459/138173502-1eee8961-37eb-4e6d-a47a-9d64b011478f.png)
 
+I also did a jointplot on the discribution of the price of motorcycles by year. The higher the price typically means the more recent year but just because it is a more recent year does not mean it is a higher price.
+![image](https://user-images.githubusercontent.com/83923459/139141809-3ef1ec03-11c2-49a4-9f33-d89fbc1bf67f.png)
+
+
 
 # Modeling / Metrics
 After our analysis our best model was the XGBoost Regressor.
