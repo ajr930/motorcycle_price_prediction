@@ -1,5 +1,4 @@
 # How much should a used motorcylce cost?
-<meta name="image" property="og:image" content="[https://user-images.githubusercontent.com/83923459/137983629-f53fc9cd-2997-4258-a932-e218f4ce2c4f.png]">
 
 ![image](https://user-images.githubusercontent.com/83923459/137983629-f53fc9cd-2997-4258-a932-e218f4ce2c4f.png)
 
